@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on my Java project
-- 📫 How to reach me 01313221639
+- 📫 How to reach me mahdihasan112358@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am a Chemistry Student and my favourite subject is Quantum Physics.
 
