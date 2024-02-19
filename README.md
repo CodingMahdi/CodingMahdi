@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @CodingMahdi
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on my Java project
-- 📫 How to reach me mahdihasan112358@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I am a Chemistry Student and my favourite subject is Quantum Physics.
+<h1 align="center">Hi 👋, I'm Mahdi hasan</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
-<!---
-CodingMahdi/CodingMahdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning **C#**
+
+- 💬 Ask me about **C, C++, Dart(Flutter)**
+
+- 📫 How to reach me **mahdihasan112358@gamil.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
